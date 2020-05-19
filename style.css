@@ -13,7 +13,6 @@ html, body{
 }
 
 #camera--view, #camera--sensor, #camera--output{
-    filter: FlipH;
 }
 
 #camera--trigger{
